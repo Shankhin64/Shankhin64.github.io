@@ -1,5 +1,5 @@
 # Shankhin64.github.io
-<!DOCTYPE html>
+
 <html>
 <body>
 <h1 id="title"> Shankhin's Library </h1>
